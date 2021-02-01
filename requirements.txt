@@ -1,0 +1,6 @@
+flask
+flask-cors
+graphene>=2.0
+flask-graphql
+graphene-file-upload
+black
